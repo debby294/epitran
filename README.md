@@ -1,3 +1,5 @@
+edit: Added a phonemic representation and deselected two pre-processing rules for German.
+
 # Epitran
 
 A library and tool for transliterating orthographic text as IPA (International Phonetic Alphabet).
