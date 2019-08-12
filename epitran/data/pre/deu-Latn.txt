@@ -5,12 +5,12 @@
 t -> ts / _ ion
 
 % Initial voicing of <s>
-s -> z / # _ [::vowel::]
+% s -> z / # _ [::vowel::]
 
 % Final obstruent devoicing
 b -> p / _ #|(::consonant::)[::vowel::]
 d -> t / _ #|(::consonant::)[::vowel::]
-g -> k / _ #|(::consonant::)[::vowel::]
+% g -> k / _ #|(::consonant::)[::vowel::]
 
 % Handling of r
 r -> 0 / e _ #
